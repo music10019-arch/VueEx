@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Derek",
+        "chinese": 90,
+        "english": 80,
+        "math": 90
+    },
+    {
+        "id": 2,
+        "name": "Alice",
+        "chinese": 85,
+        "english": 92,
+        "math": 78
+    },
+    {
+        "id": 3,
+        "name": "Brian",
+        "chinese": 70,
+        "english": 88,
+        "math": 95
+    },
+    {
+        "id": 4,
+        "name": "Cindy",
+        "chinese": 95,
+        "english": 75,
+        "math": 80
+    },
+    {
+        "id": 5,
+        "name": "David",
+        "chinese": 60,
+        "english": 85,
+        "math": 88
+    },
+    {
+        "id": 6,
+        "name": "Eva",
+        "chinese": 82,
+        "english": 79,
+        "math": 91
+    },
+    {
+        "id": 7,
+        "name": "Frank",
+        "chinese": 88,
+        "english": 90,
+        "math": 84
+    },
+    {
+        "id": 8,
+        "name": "Grace",
+        "chinese": 77,
+        "english": 82,
+        "math": 89
+    },
+    {
+        "id": 9,
+        "name": "Helen",
+        "chinese": 91,
+        "english": 86,
+        "math": 92
+    },
+    {
+        "id": 10,
+        "name": "Ian",
+        "chinese": 68,
+        "english": 80,
+        "math": 75
+    }
+]
