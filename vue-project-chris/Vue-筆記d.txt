@@ -1,0 +1,17 @@
+V-bind
+屬性綁定
+
+:id="   "
+:style="  "
+
+
+V-module
+雙向綁定
+簡寫 
+
+
+
+所以整個流程是：瀏覽器打開 → main.js 建立 App 
+→ 引入 router/index.js 設定路由 
+→ App.vue 作為容器 
+→ 根據 URL 顯示對應頁面 (HomeView、AboutView)

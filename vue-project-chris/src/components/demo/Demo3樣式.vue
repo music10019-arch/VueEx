@@ -10,6 +10,7 @@ const dynamicId = "myid1";
 
 <a href="https://www.google.com.tw" 
 target="_blank" >點我跳到網頁</a>
+<!-- 開在新的分頁或新視窗 -->
 
 <button disabled="true" id = "myid2">不可點的按鈕</button>
 

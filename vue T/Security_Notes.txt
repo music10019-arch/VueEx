@@ -1,0 +1,22 @@
+https://drive.google.com/file/d/1HZ0vhYjwIUIgOZFTxEQBzi7wXeO4PRlg/view?usp=sharing
+
+https://shorturl.at/p0zaU
+
+User Home
+
+
+L!st8520
+
+https://tw.yahoo.com/
+
+md: make directory
+cd: change directory
+
+
+FROM CustomerBean WHERE customerId = 'aaa' AND password = '' OR '1'='1' 
+                                                          ^^^^^^^^^^^^          ^^^^^^^^^        ^^^^
+                                                                      false                AND       false           OR    true
+                                                                      ^^^^^^^^^^^^^^^^^
+                                                                                               false                           OR     true
+                                                                                                ^^^^^^^^^^^^^^^^^^
+                                                                                                                        true

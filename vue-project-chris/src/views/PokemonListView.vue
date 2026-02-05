@@ -21,6 +21,15 @@ const searchPokemon = computed(() => {
     <div v-for="(value, index) in searchPokemon" :key="value.number">
       <PokemonCard>
         <img :src="value.image" />
+<!-- 它直接放在 <PokemonCard> 裡面，所以會進入 子元件沒有名字的預設 slot，也就是 <slot>。 -->
+<!-- 
+  <template #pokemonimage>
+    <img :src="value.image" />
+  </template> -->
+
+<!-- 然後子有 [<slot name="pokemonimage"></slot>] -->
+
+
         <!-- ------------------v-slot: 可以寫成 # ------------->
 
         <template #pokemonname>{{ value.name }}</template>

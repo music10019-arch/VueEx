@@ -18,7 +18,10 @@ const t = ref(0)    ;
         <li>數學{{student.math}}</li>
         <li>總分{{totalScore}}</li>
     </ul>
-
+    <input type="number" v-model="t">
+    <!-- 依賴項沒變computed()不會執行，但一般函式會-->
+    <input type="number" v-model="student.english">
+    <!-- 依賴項變了computed()才會執行 -->
 
 </template>
 

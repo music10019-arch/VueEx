@@ -1,12 +1,12 @@
 <script setup>
 
-const printlog1 = (想看內容的變數) =>{
+const printlog1 = (ee) =>{
     console.log("You successfully printed!");
-    console.log(想看內容的變數);
+    console.log(ee);
 }
 
-const printlog2 = () =>{
-}
+// const printlog2 = () =>{
+// }
     
     
 </script>
